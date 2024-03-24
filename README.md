@@ -1,5 +1,5 @@
  ## Olá sou Eduardo Barbosa
-- 🖥️ Estagiando desenvolvimento back-end na Ubistart
+- 🖥️ Analista de Sistemas na Climber RMS
 - 🌱 Cursando Análise e Desenvolvimento de Softwares
 - 😄 Pronouns:ele/dele 
 
